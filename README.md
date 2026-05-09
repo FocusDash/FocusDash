@@ -33,16 +33,6 @@ Desenvolvemos:
 
 ---
 
-# ⚡ Tecnologias
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,github,vscode" />
-
-</p>
-
----
-
 # 🎯 Objetivo
 
 Transformar negócios e marcas em experiências digitais modernas, estratégicas e preparadas para crescer.
