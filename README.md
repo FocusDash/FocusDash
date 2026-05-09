@@ -37,7 +37,7 @@ Desenvolvemos:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,firebase,figma,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,github,vscode" />
 
 </p>
 
